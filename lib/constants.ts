@@ -1,7 +1,7 @@
 // Token address for gating job postings
 // Replace with your actual SPL token address
 export const TOKEN_ADDRESS = "YOUR_TOKEN_ADDRESS_HERE";
-export const REQUIRED_TOKEN_AMOUNT = 10_000_000; // 10 million tokens
+export const REQUIRED_TOKEN_AMOUNT = 1_000_000; // 10 million tokens
 
 // RPC endpoint - using public Solana RPC
 export const SOLANA_RPC_URL =
